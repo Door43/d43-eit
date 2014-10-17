@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[eit:home|Door43 (eit)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-eit|d43-eit repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-eit/archive/master.zip|d43-eit.zip]]
+
+**Recent Changes**
+{{changes>ns = eit}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/eit|Ethnologue data]]
+
